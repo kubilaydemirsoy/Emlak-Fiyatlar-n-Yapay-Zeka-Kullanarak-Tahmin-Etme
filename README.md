@@ -1,1 +1,1 @@
-# Emlak-Fiyatlar-n-Yapay-Zeka-Kullanarak-Tahmin-Etme
+Bu projede Python ile pandas ve matploblib kütüphanelerini kullandım.
