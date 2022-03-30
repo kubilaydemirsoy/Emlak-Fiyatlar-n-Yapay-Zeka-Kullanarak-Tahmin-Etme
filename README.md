@@ -1,0 +1,1 @@
+# Emlak-Fiyatlar-n-Yapay-Zeka-Kullanarak-Tahmin-Etme
